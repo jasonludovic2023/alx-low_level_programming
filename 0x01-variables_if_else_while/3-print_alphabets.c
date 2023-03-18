@@ -7,7 +7,7 @@
 int main(void)
 {
 	char alp[26] = "abcdefghijklmnopqrstuvwxyz";
-	char ALP[26] = "ABCDEFGHIJKLMNOPQRSTUVWYXYZ";
+	char ALP[26] = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
 	int i;
 	int j;
 
